@@ -1,2 +1,1 @@
-# This project was submitted in a video format. The link to the video is here: 
-# https://youtu.be/DgbzTMIrqHc
+# This project was submitted in a video format. The link to the video is here: https://youtu.be/DgbzTMIrqHc
