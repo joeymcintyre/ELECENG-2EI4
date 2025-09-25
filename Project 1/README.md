@@ -1,4 +1,4 @@
-2EI4 - Design Project 1: DC Power Supply
+# 2EI4 - Design Project 1: DC Power Supply
 This project involves the design, simulation, and implementation of a DC power supply that delivers 3V +- 0.1V at 10mA from a 120V (rms), 1kHz AC source. The design follows the standard building blocks of a power supply:
 - Transformer - specification of turns ratio to step down 120V AC.
 - Rectifier - choice and justification of rectifier topology.
