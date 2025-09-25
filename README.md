@@ -1,5 +1,5 @@
 # ELECENG-2EI4 – Electronic Devices and Circuits I
-This repository contains lab reports, simulations, and written assignments for ELECENG 2EI4: Electronic Devices and Circuits I.
+Semiconductor devices and electronic circuits; electrical characteristics, principles of operation, circuit models of diodes, field-effect and bipolar transistors, and operational amplifiers; analysis and design of basic application circuits. 
 
 📘 Course Overview:
 - Introduced the fundamentals of semiconductor devices and analog circuits: diodes, BJTs, MOSFETs, biasing, small-signal models, and amplifier design. Labs emphasized simulation, measurement, and analysis of electronic circuits.
