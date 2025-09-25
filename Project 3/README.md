@@ -1,4 +1,4 @@
-# ELECENG 2EI5 – Design Project 3: Single-Transistor Amplifier
+# ELECENG 2EI4 – Design Project 3: Single-Transistor Amplifier
 
 This project involves designing, simulateing, and building a single-transistor (BJT or MOSFET) amplifier that accepts ±0.5 V from a 100 Ω source and drives a 100 Ω load with good linearity and <10% attenuation. 
 Constraints: use only the Digilent module’s DC supplies, no op-amps, and one transistor. 
